@@ -1,7 +1,0 @@
-Cambios solicitados aplicados:
-- Se eliminó el campo clasificador de alumnos.
-- Se eliminó el campo observaciones de alumnos.
-- Se eliminó el campo observacion de nacionalidades.
-- El campo nombre quedó como nombres de pila (generalmente dos).
-- Si no hay apellido materno, el campo se deja vacío.
-- Se conservaron errores de calidad de datos para práctica de limpieza y ETL.
