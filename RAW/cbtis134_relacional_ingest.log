@@ -1,0 +1,5 @@
+2026-04-10 13:00:00 INFO dataset generado
+2026-04-10 13:00:01 INFO campos removidos: clasificador, observaciones, observacion
+2026-04-10 13:00:02 INFO normalizacion parcial del campo nombre (doble nombre)
+2026-04-10 13:00:03 WARN se conservan errores intencionales para ETL
+2026-04-10 13:00:04 INFO alumnos=1000 grupos=133 tutores=56 jefes=42 especialidades=7 nacionalidades=6 situaciones=7

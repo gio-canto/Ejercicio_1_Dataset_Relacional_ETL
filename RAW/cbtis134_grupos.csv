@@ -1,0 +1,134 @@
+﻿grupo_id,semestre,grupo,especialidad_id,especialidad,turno,aula,tutor_id,jefe_grupo_id,periodo
+G001,1,A,PROG,Programación,Vespertino,V-11,TUT015,JEF038,2026-A 
+G002,1,A,IA,Inteligencia Artificial,Vespertino,V-11,TUT015,JEF010,2026-A 
+G003,1,A,ARH,Administración de Recursos Humanos,Vespertino,V-03,TUT043,JEF036,2026-A
+G004,1,A,CONT,Contabilidad,Vespertino,V-11,TUT046,JEF041,2026A
+G005,1,A,OFI,Ofimática,Vespertino,V-12,TUT021,JEF029,2026-A
+G006,1,A,CONS,Construcción,Matutino,M-09,TUT027,JEF038,2026-A 
+G007,1,A,LAB,Laboratorista Químico,Matutino,M-02,TUT012,JEF004,2025-B
+G008,1,B,PROG,Programación,Vespertino,V-03,TUT042,JEF029,2026A
+G009,1,B,IA,Inteligencia Artificial,Vespertino,V-01,TUT046,JEF010,2026-A 
+G010,1,B,ARH,Administración de Recursos Humanos,Vespertino,V-14,TUT015,JEF014,2026-A
+G011,1,B,CONT,Contabilidad,Vespertino,V-07,TUT020,JEF016,2026-A 
+G012,1,B,OFI,Ofimática,Vespertino,V-08,TUT026,JEF026,2025-B
+G013,1,B,CONS,Construcción,Matutino,M-14,TUT003,JEF003,2026A
+G014,1,B,LAB,Laboratorista Químico,Matutino,M-12,TUT040,JEF005,2026A
+G015,1,C,PROG,Programación,Vespertino,V-10,TUT012,JEF012,2026-A 
+G016,1,C,IA,Inteligencia Artificial,Vespertino,V-17,TUT035,JEF029,2025-B
+G017,1,C,ARH,Administración de Recursos Humanos,Vespertino,V-05,TUT056,JEF032,2026-A
+G018,1,C,CONT,Contabilidad,Vespertino,V-03,TUT044,JEF019,2026A
+G019,1,C,OFI,Ofimática,Vespertino,V-08,TUT045,JEF007,2026-A 
+G020,1,C,CONS,Construcción,Matutino,M-15,TUT053,JEF038,2026A
+G021,1,C,LAB,Laboratorista Químico,Matutino,M-03,TUT015,JEF037,2O26-A
+G022,1,D,PROG,Programación,Vespertino,V-01,TUT027,JEF002,2026A
+G023,1,D,IA,Inteligencia Artificial,Vespertino,V-18,TUT039,JEF034,2O26-A
+G024,1,D,ARH,Administración de Recursos Humanos,Vespertino,V-06,TUT002,JEF036,2025-B
+G025,1,D,CONT,Contabilidad,Vespertino,V-05,TUT035,JEF015,2026-A
+G026,1,D,OFI,Ofimática,Vespertino,V-08,TUT019,JEF011,2026A
+G027,1,D,CONS,Construcción,Matutino,M-02,TUT028,JEF016,2026-A 
+G028,1,D,LAB,Laboratorista Químico,Matutino,M-01,TUT028,JEF004,2025-B
+G029,2,A,PROG,Programación,Vespertino,V-01,TUT025,JEF020,2025-B
+G030,2,A,IA,Inteligencia Artificial,Vespertino,V-16,TUT047,JEF024,2026-A
+G031,2,A,ARH,Administración de Recursos Humanos,Vespertino,V-02,TUT047,JEF034,2026-A
+G032,2,A,CONT,Contabilidad,Vespertino,V-07,TUT042,JEF024,2026-A 
+G033,2,A,OFI,Ofimática,Vespertino,V-02,TUT002,JEF002,2025-B
+G034,2,A,CONS,Construcción,Matutino,M-14,TUT009,JEF037,2O26-A
+G035,2,A,LAB,Laboratorista Químico,Matutino,M-09,TUT051,JEF036,2025-B
+G036,2,B,PROG,Programación,Vespertino,V-09,TUT026,JEF010,2026-A
+G037,2,B,IA,Inteligencia Artificial,Vespertino,V-17,TUT004,JEF031,2026-A 
+G038,2,B,ARH,Administración de Recursos Humanos,Vespertino,V-01,TUT019,JEF007,2026-A
+G039,2,B,CONT,Contabilidad,Vespertino,V-17,TUT051,JEF024,2026-A
+G040,2,B,OFI,Ofimática,Vespertino,V-17,TUT005,JEF005,2O26-A
+G041,2,B,CONS,Construcción,Matutino,M-15,TUT021,JEF027,2026-A
+G042,2,B,LAB,Laboratorista Químico,Matutino,M-18,TUT017,JEF033,2026-A
+G043,2,C,PROG,Programación,Vespertino,V-06,TUT047,JEF001,2025-B
+G044,2,C,IA,Inteligencia Artificial,Vespertino,V-04,TUT002,JEF036,2025-B
+G045,2,C,ARH,Administración de Recursos Humanos,Vespertino,V-12,TUT017,JEF028,2O26-A
+G046,2,C,CONT,Contabilidad,Vespertino,V-15,TUT030,JEF021,2026-A
+G047,2,C,OFI,Ofimática,Vespertino,V-09,TUT002,JEF002,2026-A
+G048,2,C,CONS,Construcción,Matutino,M-08,TUT031,JEF039,2026-A 
+G049,2,C,LAB,Laboratorista Químico,Matutino,M-06,TUT009,JEF009,2026A
+G050,3,A,PROG,Programación,Vespertino,V-15,TUT050,JEF003,2025-B
+G051,3,A,IA,Inteligencia Artificial,Vespertino,V-13,TUT046,JEF030,2026-A 
+G052,3,A,ARH,Administración de Recursos Humanos,Vespertino,V-09,TUT051,JEF028,2026-A
+G053,3,A,CONT,Contabilidad,Vespertino,V-07,TUT008,JEF008,2025-B
+G054,3,A,OFI,Ofimática,Vespertino,V-17,TUT004,JEF035,2O26-A
+G055,3,A,CONS,Construcción,Matutino,M-04,TUT038,JEF042,2026-A 
+G056,3,A,LAB,Laboratorista Químico,Matutino,M-06,TUT038,JEF011,2O26-A
+G057,3,B,PROG,Programación,Vespertino,V-14,TUT004,JEF034,2026A
+G058,3,B,IA,Inteligencia Artificial,Vespertino,V-18,TUT008,JEF013,2026-A 
+G059,3,B,ARH,Administración de Recursos Humanos,Vespertino,V-04,TUT046,JEF042,2O26-A
+G060,3,B,CONT,Contabilidad,Vespertino,V-10,TUT053,JEF036,2026-A 
+G061,3,B,OFI,Ofimática,Vespertino,V-15,TUT038,JEF001,2O26-A
+G062,3,B,CONS,Construcción,Matutino,M-11,TUT051,JEF016,2026-A 
+G063,3,B,LAB,Laboratorista Químico,Matutino,M-13,TUT034,JEF032,2025-B
+G064,3,C,PROG,Programación,Vespertino,V-10,TUT012,JEF029,2026A
+G065,3,C,IA,Inteligencia Artificial,Vespertino,V-01,TUT055,JEF003,2O26-A
+G066,3,C,ARH,Administración de Recursos Humanos,Vespertino,V-07,TUT031,JEF039,2025-B
+G067,3,C,CONT,Contabilidad,Vespertino,V-12,TUT046,JEF041,2O26-A
+G068,3,C,OFI,Ofimática,Vespertino,V-12,TUT043,JEF041,2O26-A
+G069,3,C,CONS,Construcción,Matutino,M-15,TUT004,JEF004,2025-B
+G070,3,C,LAB,Laboratorista Químico,Matutino,M-11,TUT003,JEF005,2025-B
+G071,4,A,PROG,Programación,Vespertino,V-08,TUT052,JEF018,2026A
+G072,4,A,IA,Inteligencia Artificial,Vespertino,V-12,TUT004,JEF019,2025-B
+G073,4,A,ARH,Administración de Recursos Humanos,Vespertino,V-06,TUT035,JEF032,2026A
+G074,4,A,CONT,Contabilidad,Vespertino,V-13,TUT014,JEF017,2025-B
+G075,4,A,OFI,Ofimática,Vespertino,V-01,TUT027,JEF017,2025-B
+G076,4,A,CONS,Construcción,Matutino,M-18,TUT028,JEF032,2026-A 
+G077,4,A,LAB,Laboratorista Químico,Matutino,M-14,TUT002,JEF017,2026A
+G078,4,B,PROG,Programación,Vespertino,V-02,TUT027,JEF014,2025-B
+G079,4,B,IA,Inteligencia Artificial,Vespertino,V-17,TUT045,JEF039,2025-B
+G080,4,B,ARH,Administración de Recursos Humanos,Vespertino,V-06,TUT007,JEF007,2O26-A
+G081,4,B,CONT,Contabilidad,Vespertino,V-14,TUT053,JEF022,2026A
+G082,4,B,OFI,Ofimática,Vespertino,V-16,TUT018,JEF036,2025-B
+G083,4,B,CONS,Construcción,Matutino,M-14,TUT016,JEF002,2025-B
+G084,4,B,LAB,Laboratorista Químico,Matutino,M-07,TUT027,JEF012,2026-A 
+G085,4,C,PROG,Programación,Vespertino,V-04,TUT047,JEF019,2025-B
+G086,4,C,IA,Inteligencia Artificial,Vespertino,V-01,TUT004,JEF004,2025-B
+G087,4,C,ARH,Administración de Recursos Humanos,Vespertino,V-11,TUT024,JEF017,2026-A
+G088,4,C,CONT,Contabilidad,Vespertino,V-15,TUT056,JEF004,2026A
+G089,4,C,OFI,Ofimática,Vespertino,V-09,TUT011,JEF029,2025-B
+G090,4,C,CONS,Construcción,Matutino,M-16,TUT051,JEF001,2O26-A
+G091,4,C,LAB,Laboratorista Químico,Matutino,M-02,TUT010,JEF010,2026A
+G092,5,A,PROG,Programación,Vespertino,V-14,TUT048,JEF006,2026-A 
+G093,5,A,IA,Inteligencia Artificial,Vespertino,V-18,TUT030,JEF022,2025-B
+G094,5,A,ARH,Administración de Recursos Humanos,Vespertino,V-01,TUT034,JEF032,2026-A
+G095,5,A,CONT,Contabilidad,Vespertino,V-01,TUT052,JEF022,2026-A 
+G096,5,A,OFI,Ofimática,Vespertino,V-13,TUT026,JEF036,2025-B
+G097,5,A,CONS,Construcción,Matutino,M-12,TUT046,JEF038,2026-A
+G098,5,A,LAB,Laboratorista Químico,Matutino,M-13,TUT023,JEF008,2025-B
+G099,5,B,PROG,Programación,Vespertino,V-14,TUT004,JEF004,2O26-A
+G100,5,B,IA,Inteligencia Artificial,Vespertino,V-15,TUT003,JEF041,2025-B
+G101,5,B,ARH,Administración de Recursos Humanos,Vespertino,V-09,TUT046,JEF001,2026-A
+G102,5,B,CONT,Contabilidad,Vespertino,V-05,TUT009,JEF033,2O26-A
+G103,5,B,OFI,Ofimática,Vespertino,V-15,TUT053,JEF028,2O26-A
+G104,5,B,CONS,Construcción,Matutino,M-15,TUT028,JEF011,2025-B
+G105,5,B,LAB,Laboratorista Químico,Matutino,M-08,TUT040,JEF027,2026-A 
+G106,5,C,PROG,Programación,Vespertino,V-11,TUT046,JEF008,2026-A 
+G107,5,C,IA,Inteligencia Artificial,Vespertino,V-04,TUT042,JEF032,2025-B
+G108,5,C,ARH,Administración de Recursos Humanos,Vespertino,V-05,TUT026,JEF020,2026-A 
+G109,5,C,CONT,Contabilidad,Vespertino,V-14,TUT016,JEF021,2026A
+G110,5,C,OFI,Ofimática,Vespertino,V-05,TUT019,JEF036,2O26-A
+G111,5,C,CONS,Construcción,Matutino,M-01,TUT014,JEF014,2026A
+G112,5,C,LAB,Laboratorista Químico,Matutino,M-01,TUT028,JEF036,2026-A 
+G113,6,A,PROG,Programación,Vespertino,V-12,TUT035,JEF035,2O26-A
+G114,6,A,IA,Inteligencia Artificial,Vespertino,V-04,TUT048,JEF008,2025-B
+G115,6,A,ARH,Administración de Recursos Humanos,Vespertino,V-01,TUT052,JEF032,2026-A 
+G116,6,A,CONT,Contabilidad,Vespertino,V-02,TUT008,JEF033,2026-A
+G117,6,A,OFI,Ofimática,Vespertino,V-18,TUT034,JEF017,2026-A
+G118,6,A,CONS,Construcción,Matutino,M-11,TUT036,JEF009,2026-A
+G119,6,A,LAB,Laboratorista Químico,Matutino,M-17,TUT033,JEF036,2026-A 
+G120,6,B,PROG,Programación,Vespertino,V-17,TUT010,JEF010,2026-A
+G121,6,B,IA,Inteligencia Artificial,Vespertino,V-08,TUT018,JEF010,2025-B
+G122,6,B,ARH,Administración de Recursos Humanos,Vespertino,V-09,TUT044,JEF012,2026A
+G123,6,B,CONT,Contabilidad,Vespertino,V-12,TUT050,JEF025,2026-A 
+G124,6,B,OFI,Ofimática,Vespertino,V-05,TUT056,JEF027,2026-A
+G125,6,B,CONS,Construcción,Matutino,M-14,TUT019,JEF006,2025-B
+G126,6,B,LAB,Laboratorista Químico,Matutino,M-17,TUT039,JEF017,2026A
+G127,6,C,PROG,Programación,Vespertino,V-14,TUT033,JEF017,2026A
+G128,6,C,IA,Inteligencia Artificial,Vespertino,V-15,TUT016,JEF015,2O26-A
+G129,6,C,ARH,Administración de Recursos Humanos,Vespertino,V-02,TUT023,JEF036,2025-B
+G130,6,C,CONT,Contabilidad,Vespertino,V-01,TUT003,JEF005,2025-B
+G131,6,C,OFI,Ofimática,Vespertino,V-08,TUT010,JEF004,2026-A
+G132,6,C,CONS,Construcción,Matutino,M-11,TUT032,JEF024,2026-A 
+G133,6,C,LAB,Laboratorista Químico,Matutino,M-06,TUT035,JEF011,2026A

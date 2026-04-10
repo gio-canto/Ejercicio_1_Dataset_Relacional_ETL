@@ -1,0 +1,8 @@
+﻿situacion_escolar_id,descripcion,activo
+SE01,Reg.,TRUE
+SE02,Irregu1ar,1
+SE03,Condiclonado,0
+SE04,Baja Temporl,0
+SE05,Baja definitiva,FALSE
+SE06,Reinscrito,1
+SE07,Egr. parcial,NO
